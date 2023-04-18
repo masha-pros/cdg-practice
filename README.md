@@ -1,4 +1,1 @@
-Test nano editor
-Test vim editor
-Test nano editor
-Test vim editor
+$ ruby hello.rb
